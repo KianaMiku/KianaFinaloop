@@ -1,0 +1,26 @@
+body, html {  
+  height: 100%;
+  font-family: "Inconsolata", sans-serif;
+}
+
+.bgimg {
+  background-position: center;
+  background-size: cover;
+  background-image: url("cafe4.jpg");
+  min-height: 75%;
+}
+
+.bgimg2 {
+  background-position: center;
+  background-size: cover;
+  background-image: url("cafe3.jpg");
+  min-height: 75%;
+}
+
+.menu {
+  display: none;
+}
+
+.mainWrapper{
+  margin: 25px;
+}
